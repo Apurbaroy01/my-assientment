@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "cover": "/src/img/download.jpg",
+    "name": "Aurora Light Lamp",
+    "nationality": "Swedish",
+    "price": "$129.99"
+  },
+  {
+    "id": "2",
+    "cover": "/src/img/download.jpg",
+    "name": "Kyoto Ceramic Teapot",
+    "nationality": "Japanese",
+    "price": "$45.50"
+  },
+  {
+    "id": "3",
+    "cover": "/src/img/download.jpg",
+    "name": "Rio Hammock",
+    "nationality": "Brazilian",
+    "price": "$89.00"
+  },
+  {
+    "id": "4",
+    "cover": "/src/img/download.jpg",
+    "name": "Napoli Espresso Maker",
+    "nationality": "Italian",
+    "price": "$72.25"
+  },
+  {
+    "id": "5",
+    "cover": "/src/img/download.jpg",
+    "name": "Bavarian Wood Clock",
+    "nationality": "German",
+    "price": "$155.00"
+  },
+  {
+    "id": "6",
+    "cover": "/src/img/download.jpg",
+    "name": "Lisbon Linen Blanket",
+    "nationality": "Portuguese",
+    "price": "$58.45"
+  },
+  {
+    "id": "7",
+    "cover": "/src/img/download.jpg",
+    "name": "Ottoman Copper Tray",
+    "nationality": "Turkish",
+    "price": "$38.90"
+  },
+  {
+    "id": "8",
+    "cover": "/src/img/download.jpg",
+    "name": "Maple Cutting Board",
+    "nationality": "Canadian",
+    "price": "$34.00"
+  },
+  {
+    "id": "9",
+    "cover": "/src/img/download.jpg",
+    "name": "Mumbai Spice Rack",
+    "nationality": "Indian",
+    "price": "$22.75"
+  },
+  {
+    "id": "10",
+    "cover": "/src/img/download.jpg",
+    "name": "Seoul Steel Kettle",
+    "nationality": "Korean",
+    "price": "$64.10"
+  },
+  {
+    "id": "11",
+    "cover": "/src/img/download.jpg",
+    "name": "Andes Wool Rug",
+    "nationality": "Peruvian",
+    "price": "$112.30"
+  },
+  {
+    "id": "12",
+    "cover": "/src/img/download.jpg",
+    "name": "Sahara Clay Pot",
+    "nationality": "Moroccan",
+    "price": "$29.99"
+  },
+  {
+    "id": "13",
+    "cover": "/src/img/download.jpg",
+    "name": "Vienna Music Box",
+    "nationality": "Austrian",
+    "price": "$67.00"
+  },
+  {
+    "id": "14",
+    "cover": "/src/img/download.jpg",
+    "name": "Bangkok Bamboo Basket",
+    "nationality": "Thai",
+    "price": "$18.45"
+  },
+  {
+    "id": "15",
+    "cover": "/src/img/download.jpg",
+    "name": "Cape Town Beaded Necklace",
+    "nationality": "South African",
+    "price": "$26.95"
+  },
+  {
+    "id": "16",
+    "cover": "/src/img/download.jpg",
+    "name": "Sydney Canvas Tote",
+    "nationality": "Australian",
+    "price": "$39.50"
+  },
+  {
+    "id": "17",
+    "cover": "/src/img/download.jpg",
+    "name": "Paris Porcelain Plate",
+    "nationality": "French",
+    "price": "$48.80"
+  },
+  {
+    "id": "18",
+    "cover": "/src/img/download.jpg",
+    "name": "Cairo Papyrus Scroll",
+    "nationality": "Egyptian",
+    "price": "$31.70"
+  }
+]
